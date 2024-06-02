@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "my directry",
+			"path": "."
+		},
+		{
+			"name": "web development",
+			"path": "../../../../web development"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my directry"
+	}
+}
